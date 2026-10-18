@@ -34,7 +34,7 @@
       <p>🌱 Estudando: <b>Python</b> e <b>Lógica de Programação</b></p>
       <p>📊 Interesse: <b>automação</b> e <b>tratamento de dados</b></p>
       <p>🎓 Certificado: <b>Data Science (ONE)</b></p>
-      <p>🌎 Inglês: <b>intermediário</b></p>
+      <p>🌎 Inglês: <b>Avançado</b></p>
     </td>
   </tr>
 </table>
