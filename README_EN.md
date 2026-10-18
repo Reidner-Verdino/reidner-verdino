@@ -34,7 +34,7 @@
       <p>🌱 Learning: <b>Python</b> and <b>Programming Logic</b></p>
       <p>📊 Interests: <b>automation</b> and <b>data processing</b></p>
       <p>🎓 Certified: <b>Data Science (ONE)</b></p>
-      <p>🌎 English: <b>intermediate</b></p>
+      <p>🌎 English: <b>Advanced</b></p>
     </td>
   </tr>
 </table>
