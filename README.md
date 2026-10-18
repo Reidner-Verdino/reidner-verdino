@@ -83,7 +83,7 @@
 <table>
   <tr>
     <td>
-      <h4>⛪ <a href="https://github.com/Reidner-Verdino/NOME-DO-REPOSITORIO">Escala de Tarefas da Igreja</a></h4>
+      <h4>⛪ <a href="https://github.com/Reidner-Verdino/projeto-escala-igreja">Escala de Tarefas da Igreja</a></h4>
       <p>Script em Python que <b>automatiza a escala mensal de voluntários</b> de uma igreja local, um processo que antes era feito à mão todo mês. Distribui as tarefas de todos os domingos de forma justa, respeita restrições de cada voluntário e <b>exporta tudo para uma planilha Excel</b> organizada, com uma aba para cada escala.</p>
       <p><code>Python</code> · <code>openpyxl</code> · <code>JSON</code> · <code>Excel</code></p>
     </td>
