@@ -2,7 +2,10 @@
   <img src="header.svg" width="100%" alt="Reidner Verdino" />
 </p>
 
-<p align="center">🇧🇷 Português · <a href="README_EN.md">🇺🇸 English</a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PORTUGU%C3%8AS-FF6A00?style=for-the-badge" alt="Português" />
+  <a href="README_EN.md"><img src="https://img.shields.io/badge/ENGLISH-111111?style=for-the-badge" alt="English" /></a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=FF8C1A&center=true&vCenter=true&width=700&lines=Automatizando+tarefas+com+Python;Transformando+dados+em+planilhas+organizadas;Estudando+Python+e+L%C3%B3gica+de+Programa%C3%A7%C3%A3o;Aprendendo+um+pouco+a+cada+dia" alt="Typing SVG" />
@@ -83,7 +86,8 @@
 <table>
   <tr>
     <td>
-      <h4>⛪ <a href="https://github.com/Reidner-Verdino/projeto-escala-igreja">Escala de Tarefas da Igreja</a></h4>
+      <h4>⛪ Escala de Tarefas da Igreja</h4>
+      <a href="https://github.com/Reidner-Verdino/projeto-escala-igreja"><img src="https://img.shields.io/badge/GITHUB-VER%20REPOSIT%C3%93RIO-FF6A00?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111" alt="Ver repositório" /></a>
       <p>Script em Python que <b>automatiza a escala mensal de voluntários</b> de uma igreja local, um processo que antes era feito à mão todo mês. Distribui as tarefas de todos os domingos de forma justa, respeita restrições de cada voluntário e <b>exporta tudo para uma planilha Excel</b> organizada, com uma aba para cada escala.</p>
       <p><code>Python</code> · <code>openpyxl</code> · <code>JSON</code> · <code>Excel</code></p>
     </td>
