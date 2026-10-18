@@ -2,7 +2,10 @@
   <img src="header.svg" width="100%" alt="Reidner Verdino" />
 </p>
 
-<p align="center"><a href="README.md">🇧🇷 Português</a> · 🇺🇸 English</p>
+<p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/PORTUGU%C3%8AS-111111?style=for-the-badge" alt="Português" /></a>
+  <img src="https://img.shields.io/badge/ENGLISH-FF6A00?style=for-the-badge" alt="English" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=FF8C1A&center=true&vCenter=true&width=700&lines=Automating+tasks+with+Python;Turning+raw+data+into+organized+spreadsheets;Studying+Python+and+Programming+Logic;Learning+a+little+every+day" alt="Typing SVG" />
@@ -83,7 +86,8 @@
 <table>
   <tr>
     <td>
-      <h4>⛪ <a href="https://github.com/Reidner-Verdino/NOME-DO-REPOSITORIO">Church Task Scheduler</a></h4>
+      <h4>⛪ Church Task Scheduler</h4>
+      <a href="https://github.com/Reidner-Verdino/projeto-escala-igreja"><img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-FF6A00?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111" alt="View repository" /></a>
       <p>A Python script that <b>automates the monthly volunteer schedule</b> for a local church, a process that used to be done by hand every month. It fairly distributes tasks across every Sunday, respects each volunteer's restrictions and <b>exports everything to an organized Excel spreadsheet</b>, with one sheet per schedule.</p>
       <p><code>Python</code> · <code>openpyxl</code> · <code>JSON</code> · <code>Excel</code></p>
     </td>
