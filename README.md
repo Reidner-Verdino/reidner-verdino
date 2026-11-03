@@ -113,8 +113,8 @@
 <h3 align="center">📈 Estatísticas</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reidner-Verdino&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6A00&text_color=C9D1D9&icon_color=FF6A00" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reidner-Verdino&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6A00&text_color=C9D1D9" height="165" alt="Linguagens mais usadas" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="165" alt="Estatísticas do GitHub" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
